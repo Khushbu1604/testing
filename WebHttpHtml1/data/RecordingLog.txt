@@ -1,0 +1,95 @@
+[API Trapper      (3cfc:1248)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (24ac:1edc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (33b8: 468)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (33b8:2fac)] ------------------------------------------------------------------------------------------
+[Network Analyzer (33b8:2fac)] Load Network Traffic Analyzers:
+[Network Analyzer (33b8:2fac)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (33b8:2fac)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (33b8:2fac)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (33b8:2fac)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (33b8:2fac)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (33b8:2fac)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (33b8:2fac)]     Analyzer Module: local_server (value=)
+[Network Analyzer (33b8:2fac)] ------------------------------------------------------------------------------------------
+[Network Analyzer (33b8: e80)] Address lookup for ItS_BHATTU = 192.168.1.4
+[Network Analyzer (33b8:2fac)] Address lookup for ItS_BHATTU = 192.168.1.4
+[Network Analyzer (33b8:2fac)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (33b8:2fac)] Address lookup for ItS_BHATTU = 192.168.1.4
+[Network Analyzer (33b8:2fac)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (33b8: e80)] "GET /WebTours/index.htm"   
+[Network Analyzer (33b8: e80)]   (Sid:  1) Client -> Server @ : 676 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (33b8: e80)]   (Sid:  1) Client -> Server @ : 724 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (33b8: e80)]   (Sid:  1) Client -> Server @ : 756 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /favicon.ico"   
+[Network Analyzer (33b8: e80)]   (Sid:  1) Client -> Server @ : 630 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  1) Server -> Client : 424 bytes  (Service=HTTP)
+[API Trapper      ( f9c:2cc0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (3c8c:16ec)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (33b8: e80)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      (33b8: e80)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 1010 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 881 bytes (Service=HTTP)
+[Network Analyzer (33b8:2fac)] Address lookup for ItS_BHATTU = 192.168.1.4
+[Network Analyzer (33b8:2fac)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (33b8: e80)]   (Sid:  3) Client -> Server @ : 876 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (33b8: e80)]   (Sid:  3) Client -> Server @ : 895 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (33b8: e80)]   (Sid:  3) Client -> Server @ : 898 bytes (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 899 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 901 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 903 bytes (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (33b8: e80)]   (Sid:  3) Client -> Server @ : 886 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 1149 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 899 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 818 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 894 bytes (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (33b8: e80)]   (Sid:  3) Client -> Server @ : 889 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 893 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (33b8: e80)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (33b8: e80)]   (Sid:  2) Client -> Server @ : 773 bytes (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (33b8: e80)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (33b8: e80)]   (Sid:  2) Connection Terminated (by Server)
